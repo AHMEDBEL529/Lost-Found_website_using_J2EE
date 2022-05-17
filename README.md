@@ -1,5 +1,6 @@
 # Lost-Found_website_using_J2EE
 In this project I tried to make a website for lost and found items in my university.
+Here's some screenshots of the website :
 ![insertFoundItemPage](https://user-images.githubusercontent.com/77440761/168817705-dd2edbbc-30e9-4be3-bdca-8e32fe06e42c.png)
 ![foundItemsPage](https://user-images.githubusercontent.com/77440761/168817708-ad228a60-8b22-4a41-a74c-fd9f3acaaae7.png)
 ![login](https://user-images.githubusercontent.com/77440761/168817714-b76ea9fa-2bc1-4047-add5-f92e5958cd15.png)
